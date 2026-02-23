@@ -15,12 +15,12 @@ I enjoy turning ideas into real-world software using modern technologies.
 
 ## 🛠 Tech Stack
 
-| Area              | Stack |
-|-------------------|-------|
-| Frontend          | Next.js · React · Tailwind CSS |
-| Mobile/Desktop    | Flutter |
-| Backend           | Node.js · Express |
-| Database          | PostgreSQL · Firebase |
+| Area             | Technologies |
+|------------------|-------------|
+| **Frontend**     | <img src="https://skillicons.dev/icons?i=nextjs" height="20"/> <img src="https://skillicons.dev/icons?i=react" height="20"/> <img src="https://skillicons.dev/icons?i=tailwind" height="20"/> |
+| **Mobile/Desktop** | <img src="https://skillicons.dev/icons?i=flutter" height="20"/> |
+| **Backend**      | <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> <img src="https://skillicons.dev/icons?i=express" height="20"/> |
+| **Database**     | <img src="https://skillicons.dev/icons?i=postgres" height="20"/> <img src="https://skillicons.dev/icons?i=firebase" height="20"/> |
 
 ---
 

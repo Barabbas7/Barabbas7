@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Daniel Kebede 👋
 
-<!--
-**Barabbas7/Barabbas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student passionate about building clean, practical, and impactful applications.
+I enjoy turning ideas into real-world software using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+* 📅 **Amharic Calendar Desktop App** (Flutter) – Calendar + Task Planner
+* 🛒 **Full-Stack E-commerce Applications** (Next.js + PostgreSQL)
+* 📚 Improving system design, clean architecture, and scalable backend development
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+* Next.js
+* React
+* Tailwind CSS
+
+**Mobile/Desktop**
+
+* Flutter
+
+**Backend**
+
+* Node.js
+* Express
+
+**Database**
+
+* PostgreSQL
+* Firebase
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 E-commerce Platform
+
+Full-stack e-commerce application built with Next.js and PostgreSQL.
+Includes authentication, product management, and modern UI design.
+
+### 📅 Amharic Calendar Planner
+
+Flutter desktop application combining the Ethiopian calendar with productivity planning features.
+
+---
+
+## 🎯 Goals
+
+* Build production-ready applications
+* Write clean, maintainable code
+* Grow into a strong full-stack engineer
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: *(Add your link here)*
+* Email: *(Add your email here)*
+
+---
+
+> “Build with excellence. Learn continuously. Ship confidently.”

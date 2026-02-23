@@ -15,25 +15,12 @@ I enjoy turning ideas into real-world software using modern technologies.
 
 ## 🛠 Tech Stack
 
-**Frontend**
-
-* Next.js
-* React
-* Tailwind CSS
-
-**Mobile/Desktop**
-
-* Flutter
-
-**Backend**
-
-* Node.js
-* Express
-
-**Database**
-
-* PostgreSQL
-* Firebase
+| Area              | Stack |
+|-------------------|-------|
+| Frontend          | Next.js · React · Tailwind CSS |
+| Mobile/Desktop    | Flutter |
+| Backend           | Node.js · Express |
+| Database          | PostgreSQL · Firebase |
 
 ---
 

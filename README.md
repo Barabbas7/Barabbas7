@@ -7,9 +7,9 @@ I enjoy turning ideas into real-world software using modern technologies.
 
 ## 🚀 Tech & Current Work
 
-<div style="display: flex; gap: 40px; width: 100%;">
-
-<div style="flex: 1;">
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
 ### 🛠 Tech Stack
 
@@ -25,9 +25,9 @@ I enjoy turning ideas into real-world software using modern technologies.
 **Database**  
 <img src="https://skillicons.dev/icons?i=postgres,firebase" />
 
-</div>
+</td>
 
-<div style="flex: 1;">
+<td width="50%" valign="top">
 
 ### 🚀 Currently Building
 
@@ -39,9 +39,9 @@ I enjoy turning ideas into real-world software using modern technologies.
 
 - 📚 Improving system design, clean architecture, and scalable backend development  
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -58,9 +58,9 @@ Flutter desktop application combining the Ethiopian calendar with productivity p
 
 ---
 
-<div style="display: flex; gap: 40px; width: 100%;">
-
-<div style="flex: 1;">
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top">
 
 ## 🎯 Goals
 
@@ -68,18 +68,18 @@ Flutter desktop application combining the Ethiopian calendar with productivity p
 - Write clean, maintainable code  
 - Grow into a strong full-stack engineer  
 
-</div>
+</td>
 
-<div style="flex: 1;">
+<td width="50%" valign="top">
 
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/barabbas218](https://linkedin.com/in/barabbas218)  
 - Email: barabbas218@gmail.com  
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

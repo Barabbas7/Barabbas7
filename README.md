@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Kebede 👋</h1>
 
 <p align="center">
-  Software Engineering Student • Full-Stack Builder • Problem Solver
+  Christian • Software Engineering Student • Full-Stack Builder • Problem Solver
 </p>
 
 <p align="center">

@@ -1,11 +1,17 @@
-# Hi, I'm Daniel Kebede 👋
+<h1 align="center">Hi, I'm Daniel Kebede 👋</h1>
 
-Software Engineering Student passionate about building clean, practical, and impactful applications.  
-I enjoy turning ideas into real-world software using modern technologies.
+<p align="center">
+  Software Engineering Student • Full-Stack Builder • Problem Solver
+</p>
+
+<p align="center">
+  I build clean, practical, and impactful software.<br/>
+  Turning ideas into real-world applications using modern technologies.
+</p>
 
 ---
 
-## 🚀 Tech & Current Work
+## 🚀 Tech & Current Focus
 
 <table width="100%" border="0">
 <tr>
@@ -16,7 +22,7 @@ I enjoy turning ideas into real-world software using modern technologies.
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" />
 
-**Mobile/Desktop**  
+**Mobile / Desktop**  
 <img src="https://skillicons.dev/icons?i=flutter" />
 
 **Backend**  
@@ -25,19 +31,31 @@ I enjoy turning ideas into real-world software using modern technologies.
 **Database**  
 <img src="https://skillicons.dev/icons?i=postgres,firebase" />
 
+<br/>
+
+**Currently Learning**  
+System Design • Clean Architecture • Scalable Backend Patterns
+
 </td>
 
 <td width="50%" valign="top">
 
 ### 🚀 Currently Building
 
-- 📅 **Amharic Calendar Desktop App** (Flutter)  
-  Calendar + Task Planner  
+**📅 Amharic Calendar Desktop App**  
+Flutter-based Ethiopian calendar + task planner  
+Focused on usability and productivity.
 
-- 🛒 **Full-Stack E-commerce Applications**  
-  Next.js + PostgreSQL  
+<br/>
 
-- 📚 Improving system design, clean architecture, and scalable backend development  
+**🛒 Full-Stack E-Commerce Applications**  
+Next.js + PostgreSQL  
+Authentication • Product management • Modern UI
+
+<br/>
+
+**📚 Growth Focus**  
+Improving architecture decisions and production-ready development.
 
 </td>
 </tr>
@@ -47,14 +65,12 @@ I enjoy turning ideas into real-world software using modern technologies.
 
 ## 🌟 Featured Projects
 
-### 🛒 E-commerce Platform
-
-Full-stack e-commerce application built with Next.js and PostgreSQL.  
-Includes authentication, product management, and modern UI design.
+### 🛒 E-Commerce Platform
+Full-stack application with authentication, product management, and clean UI design.  
+Built using **Next.js, Node.js, PostgreSQL**.
 
 ### 📅 Amharic Calendar Planner
-
-Flutter desktop application combining the Ethiopian calendar with productivity planning features.
+Flutter desktop application combining the Ethiopian calendar with productivity planning tools.
 
 ---
 
@@ -66,6 +82,7 @@ Flutter desktop application combining the Ethiopian calendar with productivity p
 
 - Build production-ready applications  
 - Write clean, maintainable code  
+- Contribute to impactful software  
 - Grow into a strong full-stack engineer  
 
 </td>
@@ -74,8 +91,15 @@ Flutter desktop application combining the Ethiopian calendar with productivity p
 
 ## 📫 Connect With Me
 
-- LinkedIn: [linkedin.com/in/barabbas218](https://linkedin.com/in/barabbas218)  
-- Email: barabbas218@gmail.com  
+- 💼 **LinkedIn**:  
+  https://linkedin.com/in/barabbas218  
+
+- 📧 **Email**:  
+  barabbas218@gmail.com  
+
+<br/>
+
+_Open to collaboration, internships, and meaningful projects._
 
 </td>
 </tr>
@@ -83,4 +107,6 @@ Flutter desktop application combining the Ethiopian calendar with productivity p
 
 ---
 
-> “Build with excellence. Learn continuously. Ship confidently.”
+<p align="center">
+  <i>“Build with excellence. Learn continuously. Ship confidently.”</i>
+</p>

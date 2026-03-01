@@ -45,9 +45,6 @@
 Open to internships, collaboration, and meaningful projects.
 </i>
 </p>
-
----
-
 <p align="center">
   <i>“Build with excellence. Learn continuously. Ship confidently.”</i>
 </p>
